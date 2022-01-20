@@ -1,5 +1,7 @@
-#Problem
+# Problem
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-For Solution and Explanation, Read the docx file.
+For explanation, Read the pdf file.
+
+For Solution, open the Solution.py files
